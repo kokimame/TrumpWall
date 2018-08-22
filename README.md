@@ -1,4 +1,4 @@
-# TrumpWall
+# Trump Wall Breakout
 This is a Breakout clone powered by [libGDX](https://libgdx.badlogicgames.com/). 
 
 I developed this Android game in March 2016 and haven't finished it. (The GIF below is almost everything of the "game".)
