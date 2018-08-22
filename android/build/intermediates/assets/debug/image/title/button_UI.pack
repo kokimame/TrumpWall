@@ -1,0 +1,19 @@
+
+button_UI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonHighScore
+  rotate: false
+  xy: 1, 173
+  size: 650, 170
+  orig: 650, 170
+  offset: 0, 0
+  index: -1
+buttonNewGame
+  rotate: false
+  xy: 1, 1
+  size: 650, 170
+  orig: 650, 170
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+GameEnd_UI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonNext
+  rotate: false
+  xy: 1, 1
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+buttonEnd
+  rotate: false
+  xy: 79, 1
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1

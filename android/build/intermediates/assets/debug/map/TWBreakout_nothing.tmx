@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="11" height="30" tilewidth="16" tileheight="8">
+ <tileset firstgid="1" name="TWBreakout Bricks" tilewidth="16" tileheight="8">
+  <image source="brick_image.png" width="320" height="160"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="11" height="30">
+  <data encoding="base64" compression="zlib">
+   eJwzYGRgMCABEwNG1Y6qHVU7qnY4qQUAeTkNNg==
+  </data>
+ </layer>
+ <objectgroup name="brick" width="11" height="30"/>
+ <objectgroup name="wall" width="11" height="30"/>
+</map>

@@ -1,0 +1,40 @@
+
+TWBreakout_Tittle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trump_wall
+  rotate: false
+  xy: 1, 83
+  size: 241, 401
+  orig: 241, 401
+  offset: 0, 0
+  index: -1
+twbreakout_background_rough
+  rotate: false
+  xy: 244, 84
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+trump_tittle
+  rotate: false
+  xy: 486, 334
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+twbreakout_tittle
+  rotate: false
+  xy: 1, 1
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+mexican_hat
+  rotate: false
+  xy: 486, 232
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1

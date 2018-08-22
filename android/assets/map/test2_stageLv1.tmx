@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="12" height="30" tilewidth="128" tileheight="64">
+ <tileset firstgid="1" name="TWBreakout Large" tilewidth="128" tileheight="64">
+  <image source="../image/play/tilesset1280x640.png" width="1280" height="640"/>
+ </tileset>
+ <layer name="graphic" width="12" height="30">
+  <data encoding="base64" compression="zlib">
+   eJwTYyAeiEHxqHrqqucmEg9W94+qH1U/qp426gFNrAWX
+  </data>
+ </layer>
+ <objectgroup name="brick" width="12" height="30">
+  <object x="128" y="512" width="128" height="64"/>
+  <object x="256" y="512" width="128" height="64"/>
+  <object x="384" y="512" width="128" height="64"/>
+  <object x="512" y="512" width="128" height="64"/>
+  <object x="640" y="512" width="128" height="64"/>
+  <object x="768" y="512" width="128" height="64"/>
+  <object x="896" y="512" width="128" height="64"/>
+  <object x="1024" y="512" width="128" height="64"/>
+  <object x="1152" y="512" width="128" height="64"/>
+  <object x="1280" y="512" width="128" height="64"/>
+  <object x="2233" y="488"/>
+  <object x="2361" y="300" height="6"/>
+ </objectgroup>
+ <objectgroup name="wall" width="12" height="30"/>
+</map>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Koki/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.5/c8098219abfe00b849cc43d461b1105fea3a2944/gdx-box2d-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="/Users/Koki/libGDX/TrumpWall/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.5_e4886efde78c0186dad0ebdf9ec614c5731011b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Koki/libGDX/TrumpWall/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b997dae333dc0b94bf4137c6537304b56d3ccde5">
+        <dex dex="/Users/Koki/libGDX/TrumpWall/android/build/intermediates/pre-dexed/debug/core-1.0_e15af03722e146265927c209a131d63e362ce02f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Koki/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.5/293bbe05bfb5ca812c849e4d1f494f56509d5a6e/gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="/Users/Koki/libGDX/TrumpWall/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.5_73330ffa4ca4aa02a4ec6cc12d8e8f5f106ac04d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Koki/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="/Users/Koki/libGDX/TrumpWall/android/build/intermediates/pre-dexed/debug/gdx-1.9.5_27b7624416ba709979bfaec69b4ad44d42fac39e.jar" />
+    </item>
+
+</items>

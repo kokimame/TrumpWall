@@ -1,0 +1,4 @@
+#Tue Jan 10 04:17:29 JST 2017
+base.0=/Users/Koki/libGDX/TrumpWall/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Koki/libGDX/TrumpWall/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

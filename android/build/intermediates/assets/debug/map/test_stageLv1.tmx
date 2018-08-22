@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="11" height="30" tilewidth="16" tileheight="8">
+ <tileset firstgid="1" name="TestGame" tilewidth="16" tileheight="8">
+  <image source="brick_image.png" width="320" height="160"/>
+ </tileset>
+ <layer name="graphics" width="11" height="30">
+  <data encoding="base64" compression="zlib">
+   eJwTYyAOiEHxqFrS1TIRgQeTe0fVjqodVYuqFgCeAwU7
+  </data>
+ </layer>
+ <objectgroup name="brick" width="11" height="30">
+  <object x="16" y="64" width="16" height="8"/>
+  <object x="112" y="64" width="16" height="8"/>
+  <object x="128" y="64" width="16" height="8"/>
+  <object x="96" y="64" width="16" height="8"/>
+  <object x="80" y="64" width="16" height="8"/>
+  <object x="32" y="64" width="16" height="8"/>
+  <object x="48" y="64" width="16" height="8"/>
+  <object x="64" y="64" width="16" height="8"/>
+  <object x="144" y="64" width="16" height="8"/>
+ </objectgroup>
+</map>
